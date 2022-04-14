@@ -46,7 +46,7 @@ _R)_
 
 * ***11 - Pensando em Bases de dados, sendo elas, Relacionais (SQL) e Não Relacionais (NoSQL). Quais alternativas abaixo estão corretas?*** 
 
-Perguntas| Alternativas 
+Opções | Alternativas 
 ---------| --------------------------------------
     a    | MySQL = MongoDB 
     b    | PostgreSQL = Redis 
@@ -90,7 +90,7 @@ Opções | Alternativas
     c    | Commands.myd  
     d    | {mysqlDirectory}/data
 
-* ***19 - A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados? ***
+* ***19 - A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados?***
 
 Opções | Alternativas 
 ---------| --------------------------------------
