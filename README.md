@@ -17,6 +17,7 @@ _R)_  O método scrum é uma metodologia ágil que serve para organizar grandes 
 _R)_ O método scrum é dividido  em 4 grupos de pessoas, Desenvolvedores[Dev Team], P.O[Product Owner], Scrum Master e Cliente/Usuário. Resumidamente cada grupo tem o seu papel específico no scrum, sendo os desenvolvedores responsáveis pela produção diária do projeto, o P.O responsável pela organização hierarquica das tarefas e contato direto ao cliente, o Scrum Master responsável pela instrução dos desenvolvedores com suporte e feedback, e por fim o Cliente que promove o projeto juntamente com o Usuário que consome. 
 A partir do momento em que o cliente determina e planeja o projeto, o P.O fica encarregado de criar o *Product Backlog* (lista de funcionalidades divididas hirarquicamente) logo após ser definido a lista, o projeto é divido em *sprints* (períodos de tempo definidos de até 1 mês) cada sprint é dividida ordenadamente começando por *Sprint Planning* ou *Planning Meeting* que é o momento pelo qual toda a equipe define oque será feito durante a sprint partindo para o *Sprint Backlog* que é o período em que as funcionalidades irão ser feitas pelo dev team, podendo ser alteradas pelo P.O. Porém todos os dias durante a sprint é feito uma *Daily Scrum* de 15 minutos para a revisão diária do desenvolvimento das funcionalidades. No final da sprint é realizado uma *Review Meeting* para revisar o andamento do produto e por fim uma *Retrospective* momento pelo qual é avaliado o processo do desenvolvimento do produto. Repetindo esse ciclo até a *entrega* do produto.  
 
+Resumo: Project -> Planning =>  Product Backlog -> Sprints(Planning Meeting -> Sprint Backlog -> Daily Scrum -> Review Meeting => Retrospective) -> Entrega
 
 
 * ***3 - O que é Git?*** 
@@ -36,8 +37,7 @@ _R)_
 * ***5 - Qual o comando para criação de um novo repositório no Git?*** 
 
 
-_R)_
-
+_R)_ $git Init
 
 
 * ***6 - O que é o HTTP?***
