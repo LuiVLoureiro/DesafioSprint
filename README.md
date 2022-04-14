@@ -83,14 +83,21 @@ _R)_
 
 _R)_
 
-Perguntas| Alternativas 
+Opções | Alternativas 
 ---------| --------------------------------------
     a    | Commands.myi  
     b    | Commands.frm
     c    | Commands.myd  
     d    | {mysqlDirectory}/data
 
-* ***19 - O que é MongoDB?***
+* ***19 - A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados? ***
+
+Opções | Alternativas 
+---------| --------------------------------------
+    a    |  /{database_name_folder}/{database_tables_and_files}.  
+    b    | C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm 
+    c    | C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd  
+    d    | C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery 
 
 _R)_
 
