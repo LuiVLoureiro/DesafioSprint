@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Imagem Compass](https://webjump.com.br/wp-content/uploads/2021/08/compassuol-logo-min.png)
 
 <div align="center">
@@ -113,3 +114,12 @@ _R)_
 * ***24 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:*** 
 
 _R)_
+=======
+
+![Imagem Compass](https://webjump.com.br/wp-content/uploads/2021/08/compassuol-logo-min.png)
+<a align="center">
+# Desafio da Sprint 1
+</a>
+
+
+>>>>>>> 47774e894ffa109d3e2e5d5796cb99f3716b9a85
