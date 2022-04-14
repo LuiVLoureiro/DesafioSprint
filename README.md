@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Imagem Compass](https://webjump.com.br/wp-content/uploads/2021/08/compassuol-logo-min.png)
 
 <div align="center">
@@ -115,4 +114,3 @@ _R)_
 
 _R)_
 
->>>>>>> 47774e894ffa109d3e2e5d5796cb99f3716b9a85
