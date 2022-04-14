@@ -23,14 +23,14 @@ Resumo: Project -> Planning =>  Product Backlog -> Sprints(Planning Meeting -> S
 * ***3 - O que é Git?*** 
 
 
-_R)_ Git é um controlador de versões...
+_R)_ Git é um controlador de versões com código aberto que serve para criar repositórios locais e junta-los à um servidor em nuvem facilitando a entrega conjunta de um programa ou projeto. 
 
 
 
 * ***4 - O que é um scrum Product Owner?***
 
 
-_R)_
+_R)_ O Product Owner é encarregado de criar o Product Backlog definindo suas prioridades e recursos que serão desenvolvidos pela equipe. Além de ser encarregado de ter contato direto com o cliente.
 
 
 
@@ -43,7 +43,7 @@ _R)_ $git Init
 * ***6 - O que é o HTTP?***
 
 
-_R)_
+_R)_ É um protocolo de transferência de textos(dados) entre uma máquina local, navegador e um servidor web
 
 
 
