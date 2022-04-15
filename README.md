@@ -70,7 +70,8 @@ _R)_ É o "Branch" padrão ou seja a ramificação padrão/inicial do git e serv
 * ***10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?*** 
 
 _R)_ Atualizar Repositório: 1°) $git status,  2) $git add . , 3) $git commit -m "",  4) $git pull; 
-       Fazer Merge de outro Branch: 1°) $git checkout master, 2°) $git merge "outro branch", 3°) $git add . , 4°) $git commit -m ""; 
+
+Fazer Merge de outro Branch: 1°) $git checkout master, 2°) $git merge "outro branch", 3°) $git add . , 4°) $git commit -m ""; 
 
 
 
