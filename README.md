@@ -50,26 +50,27 @@ _R)_ É um protocolo de transferência de textos(dados) entre uma máquina local
 * ***7 - Como funciona o HTTP?***
 
 
-_R)_
+_R)_ Ocorre a troca de dados atráves de solicitações entre usuário e servidor. Geralmente os sites atuam em formato txt, img(jpeg, jpg, png...), entre outros. 
 
 
 
 * ***8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?***   
 
 
-_R)_
+_R)_ $git stash
 
 
 
 * ***9 - O que é a Branch master e para que serve?*** 
 
-_R)_
+_R)_ É o "Branch" padrão ou seja a ramificação padrão/inicial do git e serve para armazenar os dados em uma "trilha" ou "ramo" especifíca. Isso é melhor compreendido quando nos referimos a "galhos de árvore" cada um com suas folhas e seu conteúdo delas. E o branch master é o primeiro galho.
 
 
 
-* ***10 - O que é a Branch master e para que serve?*** 
+* ***10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?*** 
 
-_R)_
+_R)_ Atualizar Repositório: 1°) $git status,  2) $git add . , 3) $git commit -m "",  4) $git pull; 
+       Fazer Merge de outro Branch: 1°) $git checkout master, 2°) $git merge "outro branch", 3°) $git add . , 4°) $git commit -m ""; 
 
 
 
@@ -89,21 +90,21 @@ _R)_
 
 * ***12 - O que é MongoDB?*** 
 
-_R)_
+_R)_ É um banco de dados tradicional(Não relacional) 
 
 
 
 
 * ***13 - O que é o MySQL?*** 
 
-_R)_
+_R)_ É um banco de dados relacional
 
 
 
 
 * ***14 - Qual a diferença entre git e github?***
 
-_R)_
+_R)_ Git atua em repositórios locais e com código aberto. Já o github atua em repositórios em nuvem e é um servidor dedicado. 
 
 
 
